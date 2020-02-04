@@ -1,4 +1,4 @@
 Hello and welcome to this blog.
 
-## AI, Machine learning and Statistics
+## AI, Machine Learning and Statistics
 
